@@ -2,4 +2,4 @@
 # create branche
 # testing
 # Git has a mutable index called stage
-# create branch dev
+# creating a new branch is quick and simple
